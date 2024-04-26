@@ -62,3 +62,9 @@ h1 span {
 #footer a + a {
   margin-left: 28px;
 }
+
+#balls {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
