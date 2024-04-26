@@ -7,8 +7,9 @@
 
 /* variables */
 :root {
-  --text-color: #7d7987;
+  --default-color: #7d7987;
   --hightlight-color: #ff9900;
+  --grey: #eceff2;
 }
 
 /* general */
@@ -24,7 +25,7 @@ a {
 
 P,
 #footer {
-  color: var(--text-color);
+  color: var(--default-color);
   font-size: 14px;
   line-height: 28px;
 }
@@ -54,7 +55,7 @@ h1 span {
 /* footer */
 #line {
   width: 368px;
-  border: 1px solid #eceff2;
+  border: 1px solid var(--grey);
   margin: 0 auto 8px;
 }
 
