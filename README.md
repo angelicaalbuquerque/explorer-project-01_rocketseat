@@ -30,7 +30,7 @@ O projeto "Móveis Planejados" é o primeiro feito durante a formação em desen
 
 A prática é a criação de uma página simples estruturada durante o _Stage 02 - "Introdução ao HTML e CSS"_ da formação citada acima.
 
-<!-- Confira o projeto finalizado, online, [aqui](https://angelicaalbuquerque.github.io/devlinks_rocketseat/). -->
+Confira o projeto finalizado, online, [aqui](https://angelicaalbuquerque.github.io/explorer-stage02-project01_rocketseat/).
 
 Para conferir detalhes de todos os módulos do curso e seus projetos, acesse [esse repositório](https://github.com/angelicaalbuquerque/fullstack-explorer_rocketseat).
 
@@ -46,7 +46,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🎨 Layout
 
-Você pode visualizar o layout do projeto através [deste link](<https://www.figma.com/file/6Rh7dQfajER3mugE3ZNhKE/Explorer---Projeto-01-(Copy)?type=design&node-id=0-1&mode=design&t=yf7fWdVGz0sAJXjs-0>), no [Figma](http://figma.com/). É preciso ter uma conta na plataforma para acessá-lo.
+Você pode visualizar o layout do projeto através [deste link](https://www.figma.com/file/fAvYZz4dPV5MfhL77XkqkD/Explorer---Stage-01), no [Figma](http://figma.com/). É preciso ter uma conta na plataforma para acessá-lo.
 
 ## 📬 Entre em contato!
 
