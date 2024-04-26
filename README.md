@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <img alt="Made by Angélica Albuquerque" src="https://img.shields.io/badge/made%20by-Angélica Albuquerque-%20?color=205263">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/angelicaalbuquerque/fullstack-explorer_rocketseat?color=205263">
-  <img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/angelicaalbuquerque/fullstack-explorer_rocketseat?color=205263">
+  <img alt="Made by Angélica Albuquerque" src="https://img.shields.io/badge/made%20by-Angélica Albuquerque-%20?color=FF9900">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/angelicaalbuquerque/explorer-project-01_rocketseat?color=FF9900">
+  <img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/angelicaalbuquerque/explorer-project-01_rocketseat?color=FF9900">
 </p>
 
 <p align="center">
