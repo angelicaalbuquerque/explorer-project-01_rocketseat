@@ -22,7 +22,8 @@ a {
   color: var(--hightlight-color);
 }
 
-P {
+P,
+#footer {
   color: var(--text-color);
   font-size: 14px;
   line-height: 28px;
@@ -51,6 +52,12 @@ h1 span {
 }
 
 /* footer */
+#line {
+  width: 368px;
+  border: 1px solid #eceff2;
+  margin: 0 auto 8px;
+}
+
 #footer a + a {
   margin-left: 28px;
 }
