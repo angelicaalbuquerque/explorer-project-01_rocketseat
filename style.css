@@ -1,3 +1,40 @@
+/* reset */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* variables */
+:root {
+  --text-color: #7d7987;
+  --hightlight-color: #ff9900;
+}
+
+/* general */
 body {
   font-family: "Open Sans", sans-serif;
 }
+
+span,
+a {
+  color: var(--hightlight-color);
+}
+
+P {
+  color: var(--text-color);
+}
+
+/* hero */
+h1 {
+  font-family: "Inter", sans-serif;
+  font-weight: normal;
+  font-size: 49px;
+  line-height: 56px;
+}
+
+h1 span {
+  font-weight: bold;
+}
+
+/* footer */
