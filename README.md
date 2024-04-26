@@ -30,7 +30,7 @@ O projeto "Móveis Planejados" é o primeiro feito durante a formação em desen
 
 A prática é a criação de uma página simples estruturada durante o _Stage 02 - "Introdução ao HTML e CSS"_ da formação citada acima.
 
-Confira o projeto finalizado, online, [aqui](https://angelicaalbuquerque.github.io/explorer-stage02-project01_rocketseat/).
+Confira o projeto finalizado, _online_, [aqui](https://angelicaalbuquerque.github.io/explorer-stage02-project01_rocketseat/).
 
 Para conferir detalhes de todos os módulos do curso e seus projetos, acesse [esse repositório](https://github.com/angelicaalbuquerque/fullstack-explorer_rocketseat).
 
